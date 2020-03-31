@@ -1,12 +1,12 @@
 # Ubuntu_Docker_install
 
 ## 필요 환경
-Ubuntu\n
-Nvidia Driver\n
+Ubuntu\
+Nvidia Driver\
 CUDA
 
 ## 설치되는 항목
-Docker\n
+Docker\
 Nvidia Docker
 
 ## 설치 방법
