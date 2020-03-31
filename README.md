@@ -10,7 +10,7 @@ Docker\
 Nvidia Docker
 
 ## 설치 방법
-Ubuntu 터미널을 실행 시키고 아래의 bash파일을 실행한다.
+Ubuntu 터미널을 실행 시키고  bash파일을 실행한다.
 ~~~
 sudo bash Docker_install.sh
 ~~~
