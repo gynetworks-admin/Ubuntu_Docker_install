@@ -16,7 +16,7 @@ sudo bash Docker_install.sh
 ~~~
 
 ## 주의사항
- Nvidia Docker를 실행하기 위해서는 CUDA가 지원되는 Nvidia 그래픽 카드가 필요하다. 그래픽 카드를 확인하고 그래픽 드라이버 설치를 확인.
+ Nvidia Docker를 실행하기 위해서는 CUDA가 지원되는 Nvidia 그래픽 카드가 필요합니다. 그래픽 카드를 확인하고 그래픽 드라이버 설치를 확인 후 진행합니다.
 
 ## 설치 확인
 ~~~
